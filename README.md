@@ -20,3 +20,9 @@ This project analyzes and predicts stock movements by extracting and analyzing s
    ```bash
    git clone https://github.com/wtfashwin/stock-movement-analysis.git
    cd stock-movement-analysis-and-prediction
+
+
+** Future Improvements
+Extend data scraping to other social media platforms like Twitter and Telegram.
+Improve the sentiment analysis by using more advanced techniques (e.g., VADER, BERT).
+Correlate sentiment data with actual stock price movements using external APIs (e.g., Yahoo Finance).
